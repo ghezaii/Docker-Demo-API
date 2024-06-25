@@ -1,0 +1,8 @@
+{
+    "groupA":["Germany", "Switzerland", "Hungary", "Scotland"],
+    "groupB":["Spain", "Italy", "Croatia", "Albania"],
+    "groupC":["England", "Denmark", "Slovenia", "Serbia"],
+    "groupD":["Austria", "France", "Netherlands", "Poland"],
+    "groupE":["Romania", "Belguim", "Slovakia", "Ukraine"],
+    "groupF":["Portugal", "Turkiye", "Czechia", "Georgia"]
+}
